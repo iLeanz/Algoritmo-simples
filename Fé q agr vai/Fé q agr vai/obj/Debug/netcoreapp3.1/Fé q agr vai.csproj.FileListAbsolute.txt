@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.exe
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.deps.json
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.runtimeconfig.json
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.dll
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\bin\Debug\netcoreapp3.1\Fé q agr vai.pdb
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.AssemblyInfo.cs
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.dll
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.pdb
+C:\Users\User\source\repos\Fé q agr vai\Fé q agr vai\obj\Debug\netcoreapp3.1\Fé q agr vai.genruntimeconfig.cache
